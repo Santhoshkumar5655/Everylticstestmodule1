@@ -23,7 +23,7 @@ print("The sum of negative elements in the list below is 40:", sumofnegative)
 
 #question1
 import pandas as pd
-dct=[{'20320-3-3908':{'A':1232,'B':1321}},{'567-57-4567':{'A':12345,'B':345678}}]
+dct = [{'2022-03-31': {'A': 12323, 'B': 123123}},{'2021-03-31': {'A': 12, 'B': 123}}]
 date=[]
 A=[]
 B=[]
